@@ -35,4 +35,3 @@
 __Если у Вас есть желание предложить мне стажировку - пишите ophiopluteus@mail.ru__
 
 ![running mans](https://github.com/ophiopluteus/About-me/assets/145755485/a648be56-889b-4941-8ecd-9fa429b71e63)
-
