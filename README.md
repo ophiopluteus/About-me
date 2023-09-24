@@ -1,6 +1,6 @@
 # Привет! Я - __Фокина Алиса__
 38 лет. Россия. Санкт-Петербург\
-![фото](https://github.com/ophiopluteus/About-me/blob/main/img/ch%20b%20foto%20privet.JPG)
+![фото](https://github.com/ophiopluteus/About-me/blob/main/img/ch%20b%20foto%20privet.jpg)
 
 ### начинающий тестировщик, junior QA
 
@@ -32,4 +32,4 @@
 
 __Если у Вас есть желание предложить мне стажировку - пишите ophiopluteus@mail.ru__
 
-![срока бегущие человечки](https://github.com/ophiopluteus/About-me/blob/main/img/running%20mans.JPG)
+![срока бегущие человечки](https://github.com/ophiopluteus/About-me/blob/main/img/running%20mans.jpg)
